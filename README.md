@@ -1,5 +1,5 @@
 # letterboxd-data-scraper
-A small collection of hacky scraping, extraction and analysis utilities for my weekly chart on movie franchises.
+A small collection of hacky scraping, extraction and analysis utilities for my [weekly chart on movie franchises](https://blog.datawrapper.de/is-there-a-movie-franchise-crisis/).
 Some of the data collected through them is also [available on kaggle](https://www.kaggle.com/datasets/jfreyberg/letterboxd-collections).
 
 ## Disclaimer
